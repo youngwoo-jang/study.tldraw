@@ -61,7 +61,7 @@ export function useValue<Value>(value: Signal<Value>): Value
  *   }, [firstName, lastName])
  *
  *   return <div>Hello {fullName}!</div>
- * }
+ * }아
  * ```
  *
  * @public
